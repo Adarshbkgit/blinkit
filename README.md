@@ -1,0 +1,2 @@
+# blinkit
+for delivery app
